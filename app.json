@@ -33,7 +33,7 @@
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": '@Nikhil_LoGo_MaKer"
+      "value": ''
     },
     "PLUGIN_CHANNEL": {
       "description": "Channel Where You Save Your Plugins",
